@@ -43,7 +43,9 @@ You lay your head down on you desk and try to sleep. The teacher warns you that 
 
 # Go To The White House
 
-You go to the White House to fight Loki. The Secret Service arrests you. You spend the next few months in prison.
+You go to the White House to fight Loki. The Secret Service arrests you. You are in a federal prison.
+
+[Try to use a dinner spoon to dig out]() or [try to steal a guard uniform and sneak out]()?
 
 # Select A Player
 
