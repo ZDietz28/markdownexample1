@@ -81,4 +81,4 @@ Wow. You made it to level 2. Good job. There is a koopa turtle bro walking towar
 
 # You died
 
-Oof. Big oof. You dead. You big mad. Do you want to play again? [Yes](#menu) or [No](#dont-play)?
+Oof. Big oof. You dead. You big mad. Do you want to play again? [Yes](#video-game-menu) or [No](#dont-play)?
