@@ -7,6 +7,13 @@ Want to help make this game? Use this [Markdown Cheatsheet](https://github.com/a
   - [Loki]()
   - [Captain America](#you-are-captain-america)
 
+# Level 1
+
+There is a goomba walking towards you. Do you want to [run at it](#you-died), [jump over it]() or [jump on it]()?
+
+# Level 2
+
+Wow. You made it to level 2. Good job. There is a koopa turtle bro walking towards you. Do you want to [run at it](#you-died), [jump over it]() or [jump on it]()?
 
 # You Are Spider-Man
 
@@ -85,13 +92,6 @@ You are Sanic Heg Hog
 
 Go to [Green Hill Zone]() or [Area 51]()
 
-# Level 1
-
-There is a goomba walking towards you. Do you want to [run at it](#you-died), [jump over it]() or [jump on it]()?
-
-# Level 2
-
-Wow. You made it to level 2. Good job. There is a koopa turtle bro walking towards you. Do you want to [run at it](#you-died), [jump over it]() or [jump on it]()?
 
 # You died
 
