@@ -1,16 +1,37 @@
 Want to help make this game? Use this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
 
-# This is a game
+# Choose Your Own Avenger
 
-  - [Play](#menu)
-  - [Don't Play](#dont-play)
+  - [Thor](#you-are-fat-thor)
+  - [Spider-Man](#you-are-spider-man)
+  - [Loki]()
+  - [Captain America]()
 
-# Menu
+
+# You Are Spider-Man
+
+Cool. You are Spider-Man. That means you have to go to high school. You go to your 1st period class. You're really sleepy because you just got back from Germany... there was this whole thing with an airport battle... you took Captain America's shield... there was this Ant Man guy that was huge... anyway...
+Do you [try to stay awake during class](#try-to-stay-awake-during-class) or [try to sleep during class](#try-to-sleep-during-class)
+
+# You Are Fat Thor
+
+  - [Play Video Games](#video-game-menu)
+  - [Don't Play Video Games](#dont-play)
+
+# Try To Stay Awake During Class
+
+You're really sleepy, but you manage to stay awake.
+
+# Video Game Menu
 
 Main Menu
 
   - [Select A Player](#select-a-player)
   - [Audio Settings](#audio-settings)
+
+# Try To Sleep During Class
+
+You lay your head down on you desk and try to sleep. The teacher warns you that there is no sleeping, but you just ignore them.
 
 # Select A Player
 
@@ -24,11 +45,13 @@ Main Menu
   - Background Music volume = 0
   - Sound Effects volume = 0
 
-Go back to the [Menu](#menu)
+Go back to the [Video Game Menu](#video-game-menu)
 
 # Don't Play
 
-You're not very fun
+You're not very fun.
+
+Game Over. You Lose.
 
 # Mary-O
 
