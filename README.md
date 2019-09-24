@@ -40,9 +40,13 @@ Go to [Level 1](#level-1) or [Level 2](#level-2)
 
 You are Louie Graham... or Louie-G for short.
 
+Go to [Louie G's Mansion]() or [Rainbow Road]()
+
 # Sanic
 
 You are Sanic Heg Hog
+
+Go to [Green Hill Zone]() or [Area 51]()
 
 # Level 1
 
