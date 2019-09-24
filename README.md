@@ -1,4 +1,4 @@
-Want to help make this game? Use this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
+Want to help make this game? Use this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 # Choose Your Own Avenger
 
