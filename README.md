@@ -16,6 +16,7 @@ Main Menu
 
   - [Play as Mary-O](#Mary-O)
   - [Play as Louie-G](#Louie-G)
+  - [Play as Sanic Heg Hog](#Sanic)
 
 # Audio Settings
 
@@ -36,3 +37,7 @@ You are Mary Oswald... or Mary-O for short.
 # Louie-g
 
 You are Louie Graham... or Louie-G for short.
+
+# Sanic
+
+You are Sanic Heg Hog
