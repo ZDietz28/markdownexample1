@@ -3,7 +3,7 @@ Want to help make this game? Use this [Markdown Cheatsheet](https://github.com/a
 # This is a game
 
   - [Play](#menu)
-  - [Don't Play](#don-t-play)
+  - [Don't Play](#dont-play)
 
 # Menu
 
