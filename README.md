@@ -5,7 +5,7 @@ Want to help make this game? Use this [Markdown Cheatsheet](https://github.com/a
   - [Thor](#you-are-fat-thor)
   - [Spider-Man](#you-are-spider-man)
   - [Loki]()
-  - [Captain America]()
+  - [Captain America](#you-are-captain-america)
 
 
 # You Are Spider-Man
@@ -18,6 +18,10 @@ Do you [try to stay awake during class](#try-to-stay-awake-during-class) or [try
   - [Play Video Games](#video-game-menu)
   - [Don't Play Video Games](#dont-play)
 
+# You Are Captain America
+
+Loki uses his staff to mind control the President and Vice President. They announce that they are resigning their roles and that Loki is the new President. Do you [move to Canada](#move-to-canada) or [go to the White House to fight Loki](#go-to-the-white-house)?
+
 # Try To Stay Awake During Class
 
 You're really sleepy, but you manage to stay awake.
@@ -29,9 +33,17 @@ Main Menu
   - [Select A Player](#select-a-player)
   - [Audio Settings](#audio-settings)
 
+# Move To Canada
+
+You decide to move to Canada and change your name to Captain Canada.
+
 # Try To Sleep During Class
 
 You lay your head down on you desk and try to sleep. The teacher warns you that there is no sleeping, but you just ignore them.
+
+# Go To The White House
+
+You go to the White House to fight Loki. The Secret Service arrests you. You spend the next few months in prison.
 
 # Select A Player
 
