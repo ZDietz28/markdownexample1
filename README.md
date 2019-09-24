@@ -1,3 +1,5 @@
+Want to help make this game? Use this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images)
+
 # This is a game
 
   - [Play](#menu)
