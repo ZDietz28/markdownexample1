@@ -1,8 +1,12 @@
 Want to help make this game? Use this [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 ```
-Create a heading like this: # Some Text
+Create a heading like this...
 
-You can now create a link to that heading like this: [Clickable Text](#some-text)
+# Some Text
+
+You can now create a link to that heading like this...
+
+[Clickable Text](#some-text)
 ```
 
 # Choose Your Own Avenger
