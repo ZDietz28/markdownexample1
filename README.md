@@ -108,6 +108,6 @@ Oof. Big oof. You dead. You big mad. Do you want to play again? [Yes](#video-gam
 
 # Area 51
 
-You open the door to Area 51 and aliens start chassing you.
+You open the door to Area 51 and aliens start chasing you. They lowkey salty.
 
 [Run]() or [Fight]()
