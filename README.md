@@ -99,9 +99,15 @@ Go to [Louie G's Mansion]() or [Rainbow Road]()
 
 You are Sanic Heg Hog
 
-Go to [Green Hill Zone]() or [Area 51]()
+Go to [Green Hill Zone]() or [Area 51](#area-51)
 
 
 # You died
 
 Oof. Big oof. You dead. You big mad. Do you want to play again? [Yes](#video-game-menu) or [No](#dont-play)?
+
+# Area 51
+
+You open the door to Area 51 and aliens start chassing you.
+
+[Run]() or [Fight]()
