@@ -110,7 +110,7 @@ Oof. Big oof. You dead. You big mad. Do you want to play again? [Yes](#video-gam
 
 You open the door to Area 51 and aliens start chasing you. They lowkey salty.
 
-[Run](#Run) or [Fight](#Fight)
+[Run](#run) or [Fight](#fight)
 
 # Run
 You run away and are chased by an alien, the alien knocks you down
@@ -119,7 +119,7 @@ You run away and are chased by an alien, the alien knocks you down
 # Fight
 You start swinging your fists furiously while screaming, You are then blindsided by Sans from undertale
 
-[Say Hi]() or [Fight Sans](#Fight Sans)
+[Say Hi]() or [Fight Sans](#fight-sans)
 
 # Fight Sans
 You are severly outmatched, are you kidding its sans from undertale, how did you expect to win. 
